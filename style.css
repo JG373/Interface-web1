@@ -1,0 +1,22 @@
+#container{
+background-color: darkturquoise;
+height: 200px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+
+
+
+}
+
+
+
+.item{
+
+background-color: cornflowerblue;
+color: darkgreen;
+width: 40%;
+margin: 5px;
+padding: 20px;
+}
+
